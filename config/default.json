@@ -1,0 +1,6 @@
+{
+   "mongoURI": "MONGOURI",
+   "jwtSecret": "mysecrettoken",
+   "githubClientId": "Your-Client-id",
+   "githubSecret": "Your-secret"
+}
